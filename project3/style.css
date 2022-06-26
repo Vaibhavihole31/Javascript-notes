@@ -1,0 +1,25 @@
+.color{
+    height: 10vh;
+    width: 20vh;
+    padding: 2px;;
+}
+
+.red{
+    background-color: red
+}
+
+.aqua{
+    background-color: aqua;
+}
+
+.violet{
+    background-color: violet;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.pink{
+    background-color: pink;
+}
